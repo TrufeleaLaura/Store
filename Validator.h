@@ -4,6 +4,7 @@
 #pragma once
 #ifndef UNTITLED_VALIDATOR_H
 #define UNTITLED_VALIDATOR_H
+#include <iostream>
 
 
 
